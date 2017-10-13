@@ -2,7 +2,7 @@
 
 print('This is a useful script')
 
-print('I like banana milkshakes')
+print('I like strawberry milkshakes')
 
 print('I am looking for the weed whacker because the weed is whack!')
 
